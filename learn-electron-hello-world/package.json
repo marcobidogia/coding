@@ -1,0 +1,15 @@
+{
+  "name": "demo_01",
+  "version": "1.0.0",
+  "description": "base hello world",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "author": "marco.bidogia@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^32.0.1"
+  }
+}
