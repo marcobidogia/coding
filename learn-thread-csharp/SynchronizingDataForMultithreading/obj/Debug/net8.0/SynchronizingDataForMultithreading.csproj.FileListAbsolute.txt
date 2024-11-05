@@ -1,0 +1,15 @@
+C:\Users\m.bidogia_ottobit\dev\Learning\coding\learn-thread-csharp\SynchronizingDataForMultithreading\bin\Debug\net8.0\SynchronizingDataForMultithreading.exe
+C:\Users\m.bidogia_ottobit\dev\Learning\coding\learn-thread-csharp\SynchronizingDataForMultithreading\bin\Debug\net8.0\SynchronizingDataForMultithreading.deps.json
+C:\Users\m.bidogia_ottobit\dev\Learning\coding\learn-thread-csharp\SynchronizingDataForMultithreading\bin\Debug\net8.0\SynchronizingDataForMultithreading.runtimeconfig.json
+C:\Users\m.bidogia_ottobit\dev\Learning\coding\learn-thread-csharp\SynchronizingDataForMultithreading\bin\Debug\net8.0\SynchronizingDataForMultithreading.dll
+C:\Users\m.bidogia_ottobit\dev\Learning\coding\learn-thread-csharp\SynchronizingDataForMultithreading\bin\Debug\net8.0\SynchronizingDataForMultithreading.pdb
+C:\Users\m.bidogia_ottobit\dev\Learning\coding\learn-thread-csharp\SynchronizingDataForMultithreading\obj\Debug\net8.0\SynchronizingDataForMultithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.bidogia_ottobit\dev\Learning\coding\learn-thread-csharp\SynchronizingDataForMultithreading\obj\Debug\net8.0\SynchronizingDataForMultithreading.AssemblyInfoInputs.cache
+C:\Users\m.bidogia_ottobit\dev\Learning\coding\learn-thread-csharp\SynchronizingDataForMultithreading\obj\Debug\net8.0\SynchronizingDataForMultithreading.AssemblyInfo.cs
+C:\Users\m.bidogia_ottobit\dev\Learning\coding\learn-thread-csharp\SynchronizingDataForMultithreading\obj\Debug\net8.0\SynchronizingDataForMultithreading.csproj.CoreCompileInputs.cache
+C:\Users\m.bidogia_ottobit\dev\Learning\coding\learn-thread-csharp\SynchronizingDataForMultithreading\obj\Debug\net8.0\SynchronizingDataForMultithreading.sourcelink.json
+C:\Users\m.bidogia_ottobit\dev\Learning\coding\learn-thread-csharp\SynchronizingDataForMultithreading\obj\Debug\net8.0\SynchronizingDataForMultithreading.dll
+C:\Users\m.bidogia_ottobit\dev\Learning\coding\learn-thread-csharp\SynchronizingDataForMultithreading\obj\Debug\net8.0\refint\SynchronizingDataForMultithreading.dll
+C:\Users\m.bidogia_ottobit\dev\Learning\coding\learn-thread-csharp\SynchronizingDataForMultithreading\obj\Debug\net8.0\SynchronizingDataForMultithreading.pdb
+C:\Users\m.bidogia_ottobit\dev\Learning\coding\learn-thread-csharp\SynchronizingDataForMultithreading\obj\Debug\net8.0\SynchronizingDataForMultithreading.genruntimeconfig.cache
+C:\Users\m.bidogia_ottobit\dev\Learning\coding\learn-thread-csharp\SynchronizingDataForMultithreading\obj\Debug\net8.0\ref\SynchronizingDataForMultithreading.dll

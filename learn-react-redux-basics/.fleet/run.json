@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "start-application",
+            "type": "npm",
+            "workingDir": "C:\\Users\\m.bidogia_ottobit\\dev\\Learning\\coding\\learn-react-redux-basics",
+            "command": "run",
+            "scripts": "start"
+        }
+    ]
+}

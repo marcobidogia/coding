@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScopedServices", "ScopedServices\ScopedServices.csproj", "{6623AB7E-E618-4C47-8693-1ABE5699FEA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "Host\Host.csproj", "{634D9C1D-F773-4B93-8233-A9D08590B685}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6623AB7E-E618-4C47-8693-1ABE5699FEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6623AB7E-E618-4C47-8693-1ABE5699FEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6623AB7E-E618-4C47-8693-1ABE5699FEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6623AB7E-E618-4C47-8693-1ABE5699FEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{634D9C1D-F773-4B93-8233-A9D08590B685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634D9C1D-F773-4B93-8233-A9D08590B685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634D9C1D-F773-4B93-8233-A9D08590B685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634D9C1D-F773-4B93-8233-A9D08590B685}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
